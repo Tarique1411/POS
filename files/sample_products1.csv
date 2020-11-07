@@ -1,0 +1,22 @@
+Code,Name,Category Code,Unit,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6
+PR-11,Shirt,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-12,Rado,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-13,Swatch 1,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-14,Swatch 2,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-15,Swatch 3,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-16,Swatch 4,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-17,Swatch 5,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-18,Swatch 6,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-19,Swatch 7,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-20,Swatch 8,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-21,Swatch 10,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-22,Swatch 11,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-23,Swatch 12,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-24,Swatch 13,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-25,Swach 14,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-26,Polo,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-27,Rado 1,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-28,New Watch,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-29,Watch 1,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-30,watch 2,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+PR-30,watch 2,C1,box,90,100,20, No Tax, exclusive, SC1,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
